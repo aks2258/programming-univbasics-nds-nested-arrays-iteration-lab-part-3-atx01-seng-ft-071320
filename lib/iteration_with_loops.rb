@@ -15,5 +15,5 @@ def join_nested_strings(src)
     end
     outer_counter+=1
   end
-  
+  strings
 end
