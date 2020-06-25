@@ -6,7 +6,10 @@ def join_nested_strings(src)
   outer_counter=0
   
   while outer_counter<src.length do
-    
+    inner_counter=0
+    while inner_counter<src[outer_counter].length do
+      
+    end
   end
   
 end
